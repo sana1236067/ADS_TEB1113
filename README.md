@@ -10,7 +10,10 @@
 | 2026_06_12  | Task 01 - Singly Linked List   |
 | 2026_06_19  | Task 01 - Circular Linked List |
 |             | Task 02 - Double Linked List   |
-| 2026_06_26  |                                |
+| 2026_06_26  | Task 01 - Stack Linked List    |
+|             | Task 02 -                      |
+|             | Task 03 -                      |
+|             | Task 04 -                      |
 | 2026_07_03  |                                |
 | 2026_07_10  |                                |
 | 2026_07_17  |                                |
