@@ -16,6 +16,5 @@
 |             | Task 04 - Queue - Array        |
 | 2026_07_03  | Task 01 - Binary Tree          |
 | 2026_07_10  | Task 01 - Graph                |
-| 2026_07_17  |                                |
-| 2026_07_24  |                                |
-| 2026_07_31  |                                |
+| 2026_07_17  | Task 01 - Bubble Sort          |
+
