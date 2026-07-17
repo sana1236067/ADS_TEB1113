@@ -17,4 +17,6 @@
 | 2026_07_03  | Task 01 - Binary Tree          |
 | 2026_07_10  | Task 01 - Graph                |
 | 2026_07_17  | Task 01 - Bubble Sort          |
-
+|             | Task 02 - Insertion Sort       |
+|             | Task 03 - Selection Sort       |
+|             | Task 04 - Merge Sort           |
